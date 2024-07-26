@@ -1,5 +1,7 @@
 # Project Name : Sticky Notes (fullstack app)
 
+## Live Preview : https://stiickynotes.netlify.app
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Basic Setup](#basic-setup)
